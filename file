@@ -1,2 +1,7 @@
 Create new project, terminal:
 django-admin startproject mysite
+
+
+Run server, terminal:
+python manage.py runserver
+
